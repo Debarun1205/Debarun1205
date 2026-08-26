@@ -1,10 +1,12 @@
 <div align="center">
 
-# Debarun Banerjee
+<!-- ANIMATED TYPING BANNER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5DADE2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Debarun+Banerjee+%F0%9F%91%8B;Researcher+%C2%B7+Builder+%C2%B7+Quant;4+Research+Papers+%7C+3+Live+Products;B.Tech+CSE+(AI+%26+ML)+%40+NiT+Kolkata)](https://git.io/typing-svg)
 
-**B.Tech CSE (AI & ML) · Narula Institute of Technology, Kolkata**
+<!-- ANIMATED NEURAL NETWORK -->
+<img src="neural.svg" width="100%" alt="Animated Neural Network"/>
 
-*Researcher · Builder · Quant*
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarun-banerjee-b8524a37b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1B4F8A?style=for-the-badge&logo=vercel&logoColor=white)](https://debarun.base44.app/)
@@ -15,13 +17,12 @@
 
 ```python
 debarun = {
-    "location"  : "Kolkata, West Bengal, India 🇮🇳",
-    "degree"    : "B.Tech CSE — AI & ML @ Narula Institute of Technology",
-    "year"      : "2nd Year",
-    "building"  : ["HavensLight v2", "New fintech project"],
-    "researching": "Neural network pruning · Conformal prediction · Bias auditing · MCMC variance reduction",
-    "languages" : ["Python", "Java", "C", "SQL", "JavaScript"],
-    
+    "location"   : "Kolkata, West Bengal, India 🇮🇳",
+    "degree"     : "B.Tech CSE — AI & ML @ Narula Institute of Technology",
+    "year"       : "2nd Year",
+    "building"   : ["HavensLight v2", "New fintech project"],
+    "researching": "Neural pruning · Conformal prediction · Bias auditing · MCMC variance reduction",
+    "languages"  : ["Python", "Java", "C", "SQL", "JavaScript"],
 }
 ```
 
@@ -47,23 +48,23 @@ debarun = {
 <td width="50%">
 
 ### 🏦 Responsible Credit Fraud Risk Platform
-A deployed AI-powered platform that auto-explores uploaded financial datasets, scores credit risk with 3 ML models (LR · RF · XGBoost), flags fraud with plain-English explanations, and audits every model for fairness across demographic subgroups. Claude API powers the EDA agent.
+AI-powered platform that auto-explores uploaded financial datasets, scores credit risk with 3 ML models (LR · RF · XGBoost), flags fraud with plain-English explanations, and audits every model for fairness. Claude API powers the EDA agent.
 
 [![Live App](https://img.shields.io/badge/Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://responsible-credit-fraud-risk-platform.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-**Stack:** `Python` `Streamlit` `scikit-learn` `XGBoost` `Claude API` `Pandas`
+`Python` `Streamlit` `scikit-learn` `XGBoost` `Claude API`
 
 </td>
 <td width="50%">
 
 ### 📈 Market Risk Radar
-A quant dashboard combining a global company map, correlation heatmap, factor radar, live-updating news & price feeds, and a context-aware AI assistant. Runs entirely on free-tier infrastructure with graceful fallbacks across every paid API.
+Quant dashboard with a global company map, correlation heatmap, factor radar, live news & price feeds, and a context-aware AI assistant. Runs entirely on free-tier infrastructure with graceful API fallbacks.
 
 [![Live App](https://img.shields.io/badge/Live_App-000000?style=flat-square&logo=vercel&logoColor=white)](https://market-risk-radar.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-**Stack:** `React` `Next.js` `Vercel`
+`React` `Next.js` `Vercel`
 
 </td>
 </tr>
@@ -71,22 +72,22 @@ A quant dashboard combining a global company map, correlation heatmap, factor ra
 <td width="50%">
 
 ### 🛡️ HavensLight
-A safety platform for solo travelers in India. One-tap SOS with live location sharing, automated check-in escalation, and a multilingual doctor directory with upfront pricing — built for India's linguistic and geographic diversity.
+Safety platform for solo travelers in India. One-tap SOS with live location sharing, automated check-in escalation, and a multilingual doctor directory with upfront pricing.
 
 [![Live Site](https://img.shields.io/badge/Live_Site-000000?style=flat-square&logo=vercel&logoColor=white)](https://havenslight1.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-**Stack:** `React` `Next.js` `Vercel`
+`React` `Next.js` `Vercel`
 
 </td>
 <td width="50%">
 
 ### 🤖 End-to-End ML Pipeline (BCG X)
-Full data science lifecycle pipeline predicting SME customer churn for an energy company. EDA on 14,000+ customer and 190,000+ pricing records. Random Forest classifier — ROC-AUC 0.71. Findings translated into EUR 85–125K revenue protection opportunity.
+Customer churn prediction pipeline on 14,000+ records. Random Forest — ROC-AUC 0.71. Findings translated into EUR 85–125K revenue protection opportunity.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
 
-**Stack:** `Python` `pandas` `scikit-learn` `seaborn` `Jupyter`
+`Python` `pandas` `scikit-learn` `seaborn` `Jupyter`
 
 </td>
 </tr>
@@ -98,13 +99,13 @@ Full data science lifecycle pipeline predicting SME customer churn for an energy
 
 | Project | Description | Scale |
 |---|---|---|
-| **Natural Gas Price Estimator** | Two-component price predictor — interpolation for seasonality, extrapolation for trend | Medium |
-| **Loan Loss Predictor** | Borrower default probability model · ROC-AUC 0.82 · Expected loss computation | Small |
+| **Natural Gas Price Estimator** | Two-component predictor — interpolation for seasonality, extrapolation for trend | Medium |
+| **Loan Loss Predictor** | Borrower default probability model · ROC-AUC 0.82 | Small |
 | **FICO Score Bucketing** | Credit rating map via MSE & log-likelihood quantization | Small |
 | **Demographic Data Analyzer** | US census statistical insights via Pandas | Small |
 | **Medical Data Analyzer** | Cardiovascular health correlation explorer | Small |
-| **Sea Level Predictor** | Linear regression on 1880–present data · projected to 2050 | Small |
-| **Page View Time Series Visualizer** | Seasonal & long-term traffic pattern analysis with Matplotlib & Seaborn | Small |
+| **Sea Level Predictor** | Linear regression on 1880–present · projected to 2050 | Small |
+| **Page View Time Series Visualizer** | Seasonal & long-term traffic pattern analysis | Small |
 | **Mean Variance Std Dev Calculator** | NumPy axis-based descriptive statistics utility | Small |
 
 ---
@@ -113,8 +114,8 @@ Full data science lifecycle pipeline predicting SME customer churn for an energy
 
 <div align="center">
 
-![Anthropic](https://img.shields.io/badge/Anthropic-4_Certs-purple?style=flat-square)
-![IBM SkillsBuild](https://img.shields.io/badge/IBM_SkillsBuild-4_Certs-blue?style=flat-square)
+![Anthropic](https://img.shields.io/badge/Anthropic-4_Certs-6B3FA0?style=flat-square)
+![IBM SkillsBuild](https://img.shields.io/badge/IBM_SkillsBuild-4_Certs-054ADA?style=flat-square)
 ![Cisco](https://img.shields.io/badge/Cisco_Networking_Academy-3_Certs-1BA0D7?style=flat-square)
 ![WorldQuant](https://img.shields.io/badge/WorldQuant-IQC_%26_Gold_Level-FF6600?style=flat-square)
 ![BCG X](https://img.shields.io/badge/BCG_X-Data_Science-009933?style=flat-square)
@@ -150,7 +151,7 @@ Full data science lifecycle pipeline predicting SME customer churn for an energy
 - 🥇 **Gold Level** — WorldQuant Challenge & International Quant Championship (IQC 2026)
 - 🏛️ **Networking** with professors from IITs, CMI & University of Hyderabad
 - 🚀 **3 live deployed products** across AI/ML, fintech, and safety-tech
-- 💼 **Founded Golden Bull** — a fintech startup taken from idea to MVP with seed funds & investor feedback
+- 💼 **Founded Golden Bull** — fintech startup taken from idea to MVP with seed funds & investor feedback
 - 🐧 **Student Mentor** @ The Linux Foundation (Jun 2026 – Present)
 - 📊 **Data Analytics Intern** @ InAmigos Foundation (Jul 2026)
 - 🎓 **ISC: 91.75%** · **ICSE: 93.8%** — Douglas Memorial Higher Secondary School
@@ -160,6 +161,5 @@ Full data science lifecycle pipeline predicting SME customer churn for an energy
 <div align="center">
 
 *"The goal is not to be better than others — it's to be better than you were yesterday."*
-
 
 </div>
