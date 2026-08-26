@@ -161,6 +161,5 @@ Full data science lifecycle pipeline predicting SME customer churn for an energy
 
 *"The goal is not to be better than others — it's to be better than you were yesterday."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Debarun1205&color=1B4F8A&style=flat-square)
 
 </div>
