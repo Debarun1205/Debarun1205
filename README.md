@@ -43,7 +43,7 @@ debarun = {
 
 ## 🚀 Featured Projects
 
-### 🧭 Waypoint — AI Prompt Routing Harness
+### 🧭 GearVane — AI Prompt Routing Harness
 Routes each prompt to the cheapest model tier that can actually do the job: local models (Ollama / LM Studio) for simple edits, mid-tier for moderate tasks, frontier models only when needed. Failures trigger automatic escalation, with spend limits and approval gates built in. Ships as a CLI, desktop app (Windows / macOS / Linux), Android APK and VS Code extension, with 850+ automated tests across TypeScript and Python engines.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Debarun1205/Waypoint)
