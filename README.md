@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarun-banerjee-b8524a37b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1B4F8A?style=for-the-badge&logo=vercel&logoColor=white)](https://debarun.base44.app/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 
 ---
 
