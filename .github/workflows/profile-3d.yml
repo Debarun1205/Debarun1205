@@ -1,0 +1,28 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"      # regenerates every day
+  workflow_dispatch:           # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTINGS_JSON_PATH: .github/profile-3d-settings.json
+      - name: Commit & Push
+        run: |
+          git config user.name  "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -A .
+          git commit -m "chore: regenerate 3D contribution graph" || exit 0
+          git push
