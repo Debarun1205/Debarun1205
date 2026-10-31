@@ -1,0 +1,10 @@
+{
+  "maxRepositories": 100,
+  "growingAnimation": true,
+  "backgroundColor": "#020209",
+  "foregroundColor": "#FFFFFF",
+  "strongColor": "#FFB52E",
+  "weakColor": "#5B6B8C",
+  "radarColor": "#FFB52E",
+  "contribColors": ["#1B1B3A", "#3D3D9E", "#6A5ACD", "#B84DDB", "#FF5FA2"]
+}
